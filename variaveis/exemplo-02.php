@@ -9,4 +9,9 @@ echo "<br/>";
 unset($nome1);
 
 echo $nome1;
+echo "<br/>";
+$nome1 = "Wildemar";
+
+echo $nome1;
+
 ?>

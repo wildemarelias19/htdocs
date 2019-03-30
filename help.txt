@@ -1,0 +1,9 @@
+tornar pasta como Git:  git init
+
+subir(na espera) pasta: git add --all
+
+subir(na espera) apenas 1 arquivo: git add exemplo01.php
+
+subir no Git: git remote add origin https: //endereço do repositório do github
+
+
